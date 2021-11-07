@@ -1,0 +1,2 @@
+deger = input()
+print(deger)
